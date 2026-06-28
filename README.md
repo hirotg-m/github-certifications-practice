@@ -6,7 +6,7 @@ GitHub認定試験対策用の学習リポジトリ
 | 試験 | 正式名称 | 受験日 |
 |------|----------|--------|
 | GH-900 | GitHub Foundations | 7/3 |
-| GH-200 | GitHub Actions | 7/3 |
+| GH-200 | GitHub Actions | 7/24 |
 | GH-100 | GitHub Admin | TBD |
 
 ## 学習計画（〜7/3）
